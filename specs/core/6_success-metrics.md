@@ -18,7 +18,7 @@
 
 ## PMF Definition
 Ai First achieves PMF when:
-✅ Teams adopt Ai First weekly  
+✅ Teams use Ai First daily  
 ✅ Workflow outcomes improve  
 ✅ Renewal and expansion are high  
 ✅ Revenue is repeatable  
