@@ -1,0 +1,17 @@
+name: Specs CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Basic Markdown sanity check
+        run: |
+          set -e
+          echo "Checking markdown files exist and are non-empty…"
+          find specs -name "*.md" -print0 | xargs -0 -I{} bash -c 'test -s "{}"'
