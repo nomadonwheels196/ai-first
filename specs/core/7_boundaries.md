@@ -15,7 +15,8 @@
 ---
 
 ## Strategic Guardrails
-- We integrate into current workflows first for maximum buy-in and quick impact, but our goal is to empower people to redefine and transform those workflows with Ai
+- First we integrate into current workflows for maximum buy-in and quick impact
+- Then we empower people to redefine and transform those workflows with Ai
 - Transformation is not about forcing tool change. It’s about evolving how people think and work, then letting workflows and tools follow
 - We measure **real user outcomes**
 - We stay true to our mission of **human empowerment**

@@ -14,7 +14,7 @@ AI is not here to replace humans. AI is here to **extend human potential**.
 - AI should **augment human ability**
 - AI is **behavioral**, not just technical
 - AI must be **accessible to all**
-- Value doesn’t come from building more — it comes from using better
+- Value doesn’t come from building more – it comes from using better
 - Adoption and conversation are the real multipliers
 - AI is a **tool**, not a god or a threat
 - Humans decide **what and why** — AI helps with **how**
